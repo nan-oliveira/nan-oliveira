@@ -1,10 +1,11 @@
 
 
-<div align='center'>
-  <p style="font-size: 24px; font-family: 'Fira Code', monospace;">Renan Oliveira</p>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&background=FFFFFF00&center=true&width=435&lines=Renan+Oliveira" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/nan-oliveira">
+    <img src="https://github.com/nan-oliveira/nan-oliveira/blob/main/images/name.png" alt="Renan Oliveira" /></a>
+</p>
+
+##
 
 
 <p align="center">
